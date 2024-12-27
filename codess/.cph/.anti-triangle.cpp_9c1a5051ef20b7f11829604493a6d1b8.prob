@@ -1,0 +1,1 @@
+{"name":"Local: anti-triangle","url":"c:\\Abhijeet\\codess\\anti-triangle.cpp","tests":[{"id":1711552219846,"input":"3\n5 2\n3 10\n5 30","output":"2 4 7 10 12\n1 8 25\n10 20 55 91 130"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Abhijeet\\codess\\anti-triangle.cpp","group":"local","local":true}
