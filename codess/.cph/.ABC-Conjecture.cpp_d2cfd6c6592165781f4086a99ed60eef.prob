@@ -1,0 +1,1 @@
+{"name":"Local: ABC-Conjecture","url":"c:\\Abhijeet\\codess\\ABC-Conjecture.cpp","tests":[{"id":1711554748249,"input":"5\n3\nacb\nabc\n5\nacbcb\nccbab\n5\nabacc\ncbcaa\n9\nabcbaabcb\nabcbaabcb\n5\naabcc\nccbaa","output":"No\nYes\nNo\nYes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Abhijeet\\codess\\ABC-Conjecture.cpp","group":"local","local":true}

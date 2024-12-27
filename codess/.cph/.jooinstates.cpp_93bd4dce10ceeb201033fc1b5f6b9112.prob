@@ -1,0 +1,1 @@
+{"name":"Local: jooinstates","url":"c:\\Abhijeet\\codess\\jooinstates.cpp","tests":[{"id":1706107837023,"input":"3\n3 2\n3 2 4\n3 5\n3 2 4\n4 5\n3 7 8 2","output":"3\n1\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Abhijeet\\codess\\jooinstates.cpp","group":"local","local":true}
